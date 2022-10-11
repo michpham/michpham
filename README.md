@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @michpham
+- 👀 I’m interested in expanding my knowledge
+- 🌱 I’m currently learning Unix, MIPS, C++
+- 💞️ I’m looking to collaborate on big projects
+- 📫 How to reach me michaeldphammail@gmail.com
